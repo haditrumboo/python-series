@@ -1,0 +1,21 @@
+
+s = set() 
+enter = input("enter number:   ")
+s.add(enter)
+enter = input("enter number:   ")
+s.add(enter)
+enter = input("enter number:   ")
+s.add(enter)
+enter = input("enter number:   ")
+s.add(enter)
+enter = input("enter number:   ")
+s.add(enter)
+enter = input("enter number:   ")
+s.add(enter)
+enter = input("enter number:   ")
+s.add(enter)
+enter = input("enter number:   ")
+s.add(enter)
+
+
+print(s)
