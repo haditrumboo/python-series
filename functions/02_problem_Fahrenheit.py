@@ -1,10 +1,13 @@
-celsius = float(input("celius: "))
+# celsius = float(input("celius: "))
 
-def CtoF(c):
-    fahrenheit =  9/5 * c
-    return fahrenheit + 32
+# def CtoF(c):
+#     fahrenheit =  9/5 * c
+#     return fahrenheit + 32
 
 
-a = CtoF(celsius)
+# a = CtoF(celsius)
 
-print(a)
+# print(a)
+
+
+
