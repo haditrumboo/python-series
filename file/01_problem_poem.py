@@ -4,7 +4,7 @@ def file():
     a = f.read().lower
     print(a)
     if ("twinkle" in a) :
-      print("yes")
+      print("yes, the word twinkle is in txt file.")
 
     b = a.count("twinkle")
     print(b)
