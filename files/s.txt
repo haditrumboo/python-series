@@ -1,0 +1,4 @@
+server started
+user logged in
+python script executed successfully
+database connected
