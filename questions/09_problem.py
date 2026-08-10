@@ -16,4 +16,4 @@ while guesses < max_guesses:
         print(f" Correct! You guessed it in {guesses} guesses.")
         break
 else:
-    print(f"you lost! The number was {number}.")
+    print(f"you lost! The number was {number}.") 
